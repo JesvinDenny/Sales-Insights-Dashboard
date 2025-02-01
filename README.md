@@ -3,7 +3,7 @@ Project Overview
 This project presents a comprehensive sales analysis for AtliQ Hardware using Microsoft Power BI. The dashboard provides deep insights into revenue and sales quantities across different markets, helping identify trends and inform strategic decisions.
 
 
-##Features
+## Features
 **Total Sales Performance:**
 
 **Revenue: ₹984.87M**
